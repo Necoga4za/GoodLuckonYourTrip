@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GoodLuckonYourTrip/static/css/main.baaefee8.css",
+    "main.js": "/GoodLuckonYourTrip/static/js/main.7c934439.js",
+    "static/js/453.302754a2.chunk.js": "/GoodLuckonYourTrip/static/js/453.302754a2.chunk.js",
+    "index.html": "/GoodLuckonYourTrip/index.html",
+    "main.baaefee8.css.map": "/GoodLuckonYourTrip/static/css/main.baaefee8.css.map",
+    "main.7c934439.js.map": "/GoodLuckonYourTrip/static/js/main.7c934439.js.map",
+    "453.302754a2.chunk.js.map": "/GoodLuckonYourTrip/static/js/453.302754a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baaefee8.css",
+    "static/js/main.7c934439.js"
+  ]
+}
