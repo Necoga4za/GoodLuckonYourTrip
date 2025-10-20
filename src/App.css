@@ -22,6 +22,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  
 }
 
 .App-link {
@@ -35,4 +36,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+p {
+  margin: 0 0 1rem 0; /* 아래쪽만 1rem 여백 */
 }
