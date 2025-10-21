@@ -15,157 +15,157 @@ const Gallery = () => {
 </nav>
         <p style={styles.p}>Venice, Oct 2024</p>
       <img
-        src="/Venice/1.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/1.jpg"}
         alt="1"
         style={styles.image}
       />
       <img
-        src="/Venice/2.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/2.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/3.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/3.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/4.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/4.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/5.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/5.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/6.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/6.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/7.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/7.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/8.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/8.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/9.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/9.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/10.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/10.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/11.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/11.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/12.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/12.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/13.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/13.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/14.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/14.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/15.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/15.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/16.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/16.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/17.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/17.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/18.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/18.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/19.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/19.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/20.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/20.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/21.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/21.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/22.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/22.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/23.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/23.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/24.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/24.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/25.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/25.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/26.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/26.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/27.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/27.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/28.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/28.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/29.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/29.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/30.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/30.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Venice/31.jpg"
+        src={process.env.PUBLIC_URL + "/Venice/31.jpg"}
         alt="Rome"
         style={styles.image}
       />
