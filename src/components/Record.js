@@ -53,28 +53,28 @@ const App = () => {
       <ArticleCard 
         variant="gray"
         color="black"
-        image="/Rome/key.jpg"
+        image={process.env.PUBLIC_URL + "/Rome/key.jpg"}
         title="Dragging My Suitcase Through Florence, Fighting Back Tears"
         paragraph={paragraphText}
       />
       <ArticleCard 
         variant="gray"
         color="black"
-        image="/Rome/nose.jpg"
+        image={process.env.PUBLIC_URL + "/Rome/nose.jpg"}
         title="Can You Get Used to This? My Nose Says No."
         paragraph={paragraphText2}
       />
       <ArticleCard 
         variant="gray"
         color="black"
-        image="/Rome/sca.jpg"
+        image={process.env.PUBLIC_URL + "/Rome/sca.jpg"}
         title="The Night I Truly Felt Alone in Venice"
         paragraph={paragraphText3}
       />
       <ArticleCard 
         variant="gray"
         color="black"
-        image="/Rome/candy.jpg"
+        image={process.env.PUBLIC_URL + "/Rome/candy.jpg"}
         title="The Italian Uncle I Met at 30,000 Feet"
         paragraph={paragraphText4}
       />

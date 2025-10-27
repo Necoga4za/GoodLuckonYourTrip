@@ -16,11 +16,11 @@ const Introduction = () => {
           awaits you. Cheering you on every step of the way! Stay inspired and keep exploring!
         </p>
       </div>
-      <img
-        src="/Rome/Colroseum.jpg"
-        alt="Rome"
-        style={styles.image}
-      />
+        <img
+          src={process.env.PUBLIC_URL + "/Rome/Colroseum.jpg"}
+          alt="Rome"
+          style={styles.image}
+        />
       <div style={styles.container}>
         <h1 style={styles.title}>Frence, Italy</h1>
         <p style={styles.content}>
@@ -34,10 +34,10 @@ const Introduction = () => {
         </p>
       </div>
       <img
-        src="/Florence/피렌체미술관뷰.jpg"
-        alt="Rome"
-        style={styles.image}
-      />
+          src={process.env.PUBLIC_URL + "/Florence/피렌체미술관뷰.jpg"}
+          alt="Rome"
+          style={styles.image}
+        />
       <div style={styles.container}>
         <h1 style={styles.title}>Venice, Italy</h1>
         <p style={styles.content}>
@@ -51,10 +51,10 @@ const Introduction = () => {
         </p>
       </div>
       <img
-        src="/Venice/메인베니스.jpg"
-        alt="Rome"
-        style={styles.image}
-      />
+          src={process.env.PUBLIC_URL + "/Venice/메인베니스.jpg"}
+          alt="Rome"
+          style={styles.image}
+        />
 
     <iframe
       title="Italy"

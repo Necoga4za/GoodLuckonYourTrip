@@ -27,8 +27,8 @@ const Schedule = ()=> {
               <span style={styles.name}>Location</span> <span>{locationList[num - 1]}</span>
             </div>
 
-            <img src={smallImageList[num - 1]} alt="s" style={styles.smallimage} />
-            <img src={imageList[num - 1]} alt="ss" style={styles.image} />
+            <img src={process.env.PUBLIC_URL + smallImageList[num - 1]} alt="s" style={styles.smallimage} />
+            <img src={process.env.PUBLIC_URL + imageList[num - 1]} alt="ss" style={styles.image} />
           </div>
           <div style={styles.underline}></div>
         </React.Fragment>

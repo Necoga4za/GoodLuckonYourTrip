@@ -14,182 +14,182 @@ const Gallery = () => {
 </nav>
         <p style={styles.p}>Rome, Oct 2024</p>
       <img
-        src="/Rome/bunissiiimo.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/bunissiiimo.jpg"}
         alt="부니시모모"
         style={styles.image}
       />
       <img
-        src="/Rome/coffe.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/coffe.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/Dontbeasadperson.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/Dontbeasadperson.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/gang.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/gang.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/eu1.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/eu1.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/eat1.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/eat1.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/espros.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/espros.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/flying.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/flying.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/ggood.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/ggood.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/goodmorning.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/goodmorning.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/goodsky.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/goodsky.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/gellato.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/gellato.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/greeeeeeen.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/greeeeeeen.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/greeeeeen.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/greeeeeen.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/greeeen.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/greeeen.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/greeen.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/greeen.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/green.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/green.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/gri.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/gri.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/htoel.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/htoel.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/icecream.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/icecream.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/iron.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/iron.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/ita.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/ita.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/italllt.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/italllt.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/pasta.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/pasta.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/potato.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/potato.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/s.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/s.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/RomeMagenet.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/RomeMagenet.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/ss.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/ss.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/sss.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/sss.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/strite5.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/strite5.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/toel.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/toel.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/ttra.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/ttra.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/vatixxan.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/vatixxan.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/vatican.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/vatican.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/wine.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/wine.jpg"}
         alt="Rome"
         style={styles.image}
       />
       <img
-        src="/Rome/woo.jpg"
+          src={process.env.PUBLIC_URL + "/Rome/woo.jpg"}
         alt="Rome"
         style={styles.image}
       />
